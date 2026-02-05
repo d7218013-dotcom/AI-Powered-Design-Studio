@@ -1,7 +1,0 @@
-{
-  "name": "UI Forge: AI-Powered Design Studio",
-  "description": "An advanced UI/UX design suite offering diverse style generation, image-to-design extraction, and chat-driven project architecture mapping using Gemini AI.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
